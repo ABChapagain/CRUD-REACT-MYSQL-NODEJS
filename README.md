@@ -6,7 +6,7 @@ To run the app you need to do following things:
 
   > _CREATE DATABASE react_crud;_
 
-- Import the react*crud.sql file in your database which is located at \*\*\_database/react_crud.sql*\*\*
+- Import the react_crud.sql file in your database which is located at **_database/react_crud.sql_**
 
 - Now finally run the server. Enter this command in your terminal.
 
